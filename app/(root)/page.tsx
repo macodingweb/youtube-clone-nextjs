@@ -1,7 +1,7 @@
 export default function Root() {
   return (
-    <div className="content">
+    <section className="home-page">
       Hello World
-    </div>
-  )
+    </section>
+  );
 }
