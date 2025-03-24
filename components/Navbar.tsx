@@ -13,7 +13,7 @@ export default function Navbar() {
   const [isFocus, setIsFocus] = useState(false);
 
   return (
-    <nav className="w-full px-8 flex items-center justify-between py-1">
+    <nav className="w-full px-5 flex items-center justify-between py-1">
       <div className="logo-container flex items-center gap-5">
         <div className="exchange-btn transition-all rounded-full hover:bg-neutral-200 flex items-center justify-center cursor-pointer w-[40px] h-[40px]">
           <SlMenu />
