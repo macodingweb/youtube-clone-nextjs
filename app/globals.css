@@ -64,3 +64,7 @@ body,
 .side-height {
   height: calc(100vh - 64px);
 }
+
+.main-list-types::-webkit-scrollbar {
+  display: none;
+}

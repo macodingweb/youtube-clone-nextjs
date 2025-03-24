@@ -8,7 +8,7 @@ import Image from "next/image";
 
 export default function Sidebar() {
   return (
-    <aside className="w-[240px] side-height overflow-y-scroll p-3">
+    <aside className="w-[300px] side-height overflow-y-scroll p-3">
       { SideLinks.map((ele, index) => (
         <ul className="main-list" key={index}>
           { "title" in ele && "explore" in ele ? (
