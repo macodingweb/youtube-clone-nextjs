@@ -87,32 +87,32 @@ export const SideLinks = [
     type: "people",
     links: [
       {
-        avatar: "/",
+        avatar: "/channels/logos/ElzeroWebSchool.jpg",
         text: "Elzero Web School",
         href: "/@ElzeroWebSchool",
       },
       {
-        avatar: "/",
+        avatar: "/channels/logos/-inthedark.jpg",
         text: "في الضلمة - In the dark",
         href: "/@-inthedark",
       },
       {
-        avatar: "/",
+        avatar: "/channels/logos/Mostyle1.jpg",
         text: "Mo style",
         href: "/@Mostyle1",
       },
       {
-        avatar: "/",
+        avatar: "/channels/logos/KarimYl3b.jpg",
         text: "Karim Yl3b",
         href: "/@KarimYl3b",
       },
       {
-        avatar: "/",
+        avatar: "/channels/logos/7ikayat_Maro.jpg",
         text: "حكايات مارو - 7ikayat Maro",
         href: "/@7ikayat_Maro",
       },
       {
-        avatar: "/",
+        avatar: "/channels/logos/samehhussien-4963.jpg",
         text: "Sameh Hussien - سامح حسين",
         href: "/@samehhussien-4963",
       },
